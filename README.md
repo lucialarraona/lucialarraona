@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans+Condensed&size=16&pause=1000&color=C22DF7&center=true&width=435&lines=Hi+there%2C+I'm+Luc%C3%ADa.+Welcome+to+my+github+%F0%9F%8D%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Sans+Condensed&size=16&duration=6000&pause=1000&color=C22DF7&center=true&vCenter=true&width=431&height=30&lines=Hi+there%2C+I'm+Luc%C3%ADa.+Welcome+to+my+github+%F0%9F%8D%93)](https://git.io/typing-svg)
 
 <!--
 **lucialarraona/lucialarraona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
