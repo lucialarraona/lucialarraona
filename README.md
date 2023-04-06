@@ -3,5 +3,6 @@
 
 
 #### 💡About me: 
-- 🔭 I’m currently studying my MSc. in Human-Centered AI in Denmark
-- 🌱 I’m currently learning MLOps
+- 🔭 I’m currently studying my MSc. in Human-Centered AI 
+- 🌱 I’m currently learning MLOps 
+- 🎯 I have a huge interest in NLP 
